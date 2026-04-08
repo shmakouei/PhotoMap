@@ -1,0 +1,29 @@
+<!-- ========================= -->
+<!-- style.css -->
+<!-- ========================= -->
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 10px;
+}
+
+#map {
+  height: 90vh;
+  width: 100%;
+}
+
+.gallery img {
+  width: 100px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+</style>
