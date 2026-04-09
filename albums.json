@@ -4,7 +4,7 @@
     "description": "Exploring Paris",
     "lat": 48.8566,
     "lng": 2.3522,
-    "images": ["paris1.jpg", "paris2.jpg"]
+    "images": ["https://raw.githubusercontent.com/shmakouei/PhotoMap/main/images/paris1.jpg", "https://raw.githubusercontent.com/shmakouei/PhotoMap/main/images/paris2.jpg"]
   },
   {
     "title": "Tokyo Adventure",
