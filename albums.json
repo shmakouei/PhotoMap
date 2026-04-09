@@ -4,13 +4,13 @@
     "description": "Exploring Paris",
     "lat": 48.8566,
     "lng": 2.3522,
-    "images": ["images/paris1.jpg", "images/paris2.jpg"]
+    "images": ["paris1.jpg", "paris2.jpg"]
   },
   {
     "title": "Tokyo Adventure",
     "description": "My trip to Japan",
     "lat": 35.6762,
     "lng": 139.6503,
-    "images": ["images/tokyo1.jpg", "images/tokyo2.jpg"]
+    "images": ["tokyo1.jpg", "tokyo2.jpg"]
   }
 ]
